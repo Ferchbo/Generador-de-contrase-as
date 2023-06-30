@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Generador de contraseñas/1.0.0": {
+        "runtime": {
+          "Generador de contraseñas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generador de contraseñas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador de contraseñas.csproj.AssemblyReference.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador_de_contraseñas.Form1.resources
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador de contraseñas.csproj.GenerateResource.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador de contraseñas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador de contraseñas.AssemblyInfoInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador de contraseñas.AssemblyInfo.cs
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador de contraseñas.csproj.CoreCompileInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\bin\Debug\net7.0-windows\Generador de contraseñas.exe
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\bin\Debug\net7.0-windows\Generador de contraseñas.deps.json
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\bin\Debug\net7.0-windows\Generador de contraseñas.runtimeconfig.json
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\bin\Debug\net7.0-windows\Generador de contraseñas.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\bin\Debug\net7.0-windows\Generador de contraseñas.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador de contraseñas.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\refint\Generador de contraseñas.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador de contraseñas.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\Generador de contraseñas.genruntimeconfig.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Generador de contraseñas\Generador de contraseñas\obj\Debug\net7.0-windows\ref\Generador de contraseñas.dll
